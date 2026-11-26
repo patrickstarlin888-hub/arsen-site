@@ -81,12 +81,13 @@ def layout(title, description, path, content, jsonld=None, full=False):
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:url" content="{url}">
 <meta property="og:type" content="website">
+<link rel="icon" type="image/png" href="/favicon.png">
 <link rel="stylesheet" href="/style.css">
 {ld}
 </head>
 <body>
 <header class="top"><div class="wrap">
-<a class="logo" href="/">{esc(SITE["name"].split()[0].upper())}<span>{esc(" ".join(SITE["name"].split()[1:]).upper())}</span></a>
+<a class="logo" href="/"><img src="/logo-mark.png" alt="" width="34" height="34">{esc(SITE["name"].split()[0].upper())}<span>{esc(" ".join(SITE["name"].split()[1:]).upper())}</span></a>
 <nav>{nav}{shop}</nav>
 </div></header>
 {"<main>" + content + "</main>" if full else "<main class=\"wrap pad\">" + content + "</main>"}
