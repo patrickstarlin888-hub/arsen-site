@@ -7,7 +7,7 @@ description: >-
   Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding
   consumables and pneumatic tools, offering retail products and OEM/ODM
   manufacturing for industrial buyers.
-email: sales@arsen-industrial.com   # TODO: 換成真的信箱
+email: duopenny@hotmail.com
 shop_url: ""                     # Shopify 開好後填入，例如 https://shop.arsen-industrial.com
 lang: en
 noindex: true   # 範例資料階段先不讓 Google 收錄；換成真實產品後改成 false

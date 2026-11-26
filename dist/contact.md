@@ -1,6 +1,6 @@
 # Contact
 
-Email **sales@arsen-industrial.com** with:
+Email **duopenny@hotmail.com** with:
 
 - The product or application you are interested in
 - Quantity and target market
