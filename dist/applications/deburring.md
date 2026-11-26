@@ -4,5 +4,6 @@ Remove burrs and sharp edges after machining, cutting or stamping. Tell us your 
 
 ## Recommended products
 
-- [Non-Woven Abrasive Wheel](https://arsen-industrial.com/products/non-woven-abrasive-wheel.md): Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
-- [Pneumatic Die Grinder](https://arsen-industrial.com/products/pneumatic-die-grinder.md): Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+- [Cartridge Rolls & Mandrels](https://arsen-industrial.com/products/cartridge-rolls.md): Spiral-wound cartridge rolls and tapered rolls on threaded mandrels for grinding inside holes, ports and contours.
+- [Non-Woven Wheels](https://arsen-industrial.com/products/non-woven-wheels.md): Non-woven surface conditioning wheels for deburring, blending and satin finishing without changing part geometry.
+- [Pneumatic Tools](https://arsen-industrial.com/products/pneumatic-tools.md): Arsen air tools for grinding, sanding and polishing: die grinders, mini angle grinders, belt sanders and orbital sanders.

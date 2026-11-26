@@ -1,7 +1,7 @@
 ---
 title: Grinding
 slug: grinding
-order: 2
+order: 1
 summary: Remove heavy stock, grind welds and shape edges.
 ---
 

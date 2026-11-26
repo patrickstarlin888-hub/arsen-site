@@ -1,7 +1,7 @@
 ---
 title: Cleaning & Preparation
 slug: cleaning
-order: 5
+order: 4
 summary: Remove rust, scale, paint and weld discoloration before coating or bonding.
 ---
 

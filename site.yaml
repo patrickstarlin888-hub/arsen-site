@@ -2,39 +2,41 @@
 name: Arsen Industrial
 company: Arsen Kogyo (富士達商貿)
 domain: https://arsen-industrial.com
-tagline: Grinding, finishing and pneumatic tools — OEM/ODM from Taiwan
+tagline: Abrasives, buffing wheels and air tools — OEM/ODM from Taiwan
 description: >-
-  Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding
-  consumables and pneumatic tools, offering retail products and OEM/ODM
-  manufacturing for industrial buyers.
+  Arsen Kogyo is a Taiwan-based supplier of flap discs, non-woven wheels,
+  buffing wheels, abrasive belts and Arsen pneumatic tools, offering
+  standard products and OEM/ODM manufacturing for industrial buyers.
 email: duopenny@hotmail.com
 shop_url: ""                     # Shopify 開好後填入，例如 https://shop.arsen-industrial.com
 lang: en
 noindex: true   # 範例資料階段先不讓 Google 收錄；換成真實產品後改成 false
 
-# 產品類別（依這個順序顯示）。還沒有產品頁的類別會顯示「Ask us」，
-# 請刪掉你不賣的類別、補上你有賣的。
+# 產品類別（依這個順序顯示，參考 Cibo 的分類方式）
 categories:
   - name: Flap Discs
     summary: Grind and finish in one step on welds, edges and flat surfaces.
-  - name: Fibre Discs
-    summary: Aggressive stock removal on backing pads for angle grinders.
-  - name: Cutting & Grinding Discs
-    summary: Thin cut-off wheels and depressed-centre grinding discs.
-  - name: Non-Woven Wheels & Discs
-    summary: Deburring, blending and satin finishing without changing part geometry.
-  - name: Mounted Points & Burrs
-    summary: Small-diameter tools for detail work, moulds and internal edges.
+  - name: Flap Wheels
+    summary: Contour finishing and blending on curved and irregular parts.
+  - name: Non-Woven Wheels
+    summary: Deburring and satin finishing without changing part geometry.
+  - name: Buffing Wheels
+    summary: Airway, bias and stitched buffs for bright and mirror finishes.
+  - name: Abrasive Belts
+    summary: File belts, benchstand belts and wide belts, made to size.
+  - name: Cartridge Rolls
+    summary: Straight and tapered rolls on mandrels for holes and ports.
   - name: Pneumatic Tools
-    summary: Air-powered die grinders, sanders and grinders for continuous duty.
-  - name: Accessories
-    summary: Back-up pads, mandrels, holders and flanges.
+    summary: Arsen air grinders, belt sanders and orbital sanders.
 
 # 推薦組合（參考 3M Winning Combinations）：先用哪個、再用哪個
 combinations:
   - title: Weld grinding to satin finish
-    summary: Grind the weld flush, then blend and finish in a second step.
-    products: [flap-disc, non-woven-abrasive-wheel]
-  - title: Detail deburring in tight spaces
-    summary: Reach internal edges and mould details with an air grinder and small non-woven wheels.
-    products: [pneumatic-die-grinder, non-woven-abrasive-wheel]
+    summary: Grind the weld flush, then blend and finish with non-woven.
+    products: [flap-discs, non-woven-wheels]
+  - title: Stainless steel to mirror finish
+    summary: Belt-grind, blend with non-woven, then buff to a mirror.
+    products: [abrasive-belts, non-woven-wheels, buffing-wheels]
+  - title: Detail work in holes and ports
+    summary: An air die grinder with cartridge rolls reaches where discs cannot.
+    products: [pneumatic-tools, cartridge-rolls]

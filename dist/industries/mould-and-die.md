@@ -6,4 +6,7 @@ Mould and die shops rely on die grinders, mounted points and fine finishing medi
 
 ## Recommended products
 
-- [Pneumatic Die Grinder](https://arsen-industrial.com/products/pneumatic-die-grinder.md): Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+- [Abrasive Belts](https://arsen-industrial.com/products/abrasive-belts.md): Abrasive belts for air file sanders, belt sanders and bench grinders, from narrow file belts to wide belts.
+- [Cartridge Rolls & Mandrels](https://arsen-industrial.com/products/cartridge-rolls.md): Spiral-wound cartridge rolls and tapered rolls on threaded mandrels for grinding inside holes, ports and contours.
+- [Flap Wheels](https://arsen-industrial.com/products/flap-wheels.md): Abrasive flap wheels for contour finishing, blending and polishing preparation on curved and irregular surfaces.
+- [Pneumatic Tools](https://arsen-industrial.com/products/pneumatic-tools.md): Arsen air tools for grinding, sanding and polishing: die grinders, mini angle grinders, belt sanders and orbital sanders.

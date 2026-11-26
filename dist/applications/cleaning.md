@@ -4,4 +4,4 @@ Remove rust, scale, paint and weld discoloration before coating or bonding. Tell
 
 ## Recommended products
 
-- [Non-Woven Abrasive Wheel](https://arsen-industrial.com/products/non-woven-abrasive-wheel.md): Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
+- [Flap Discs](https://arsen-industrial.com/products/flap-discs.md): Flap discs for angle grinders that grind and finish in one step on welds, edges and flat surfaces.

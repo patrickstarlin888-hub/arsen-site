@@ -6,4 +6,4 @@ Electronics supply chains demand consistent quality and full supplier documentat
 
 ## Recommended products
 
-- [Non-Woven Abrasive Wheel](https://arsen-industrial.com/products/non-woven-abrasive-wheel.md): Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
+- [Non-Woven Wheels](https://arsen-industrial.com/products/non-woven-wheels.md): Non-woven surface conditioning wheels for deburring, blending and satin finishing without changing part geometry.

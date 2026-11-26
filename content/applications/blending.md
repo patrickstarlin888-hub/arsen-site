@@ -1,7 +1,7 @@
 ---
 title: Blending
 slug: blending
-order: 4
+order: 3
 summary: Blend grind marks and welds into the surrounding surface.
 ---
 

@@ -1,23 +1,27 @@
 # Arsen Industrial
 
-> Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding consumables and pneumatic tools, offering retail products and OEM/ODM manufacturing for industrial buyers.
+> Arsen Kogyo is a Taiwan-based supplier of flap discs, non-woven wheels, buffing wheels, abrasive belts and Arsen pneumatic tools, offering standard products and OEM/ODM manufacturing for industrial buyers.
 
 Contact: duopenny@hotmail.com
 
 ## Products
 
-- [Flap Disc](https://arsen-industrial.com/products/flap-disc.md): Flap disc for angle grinders that combines grinding and finishing in one step on welds, edges and flat surfaces.
-- [Non-Woven Abrasive Wheel](https://arsen-industrial.com/products/non-woven-abrasive-wheel.md): Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
-- [Pneumatic Die Grinder](https://arsen-industrial.com/products/pneumatic-die-grinder.md): Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+- [Abrasive Belts](https://arsen-industrial.com/products/abrasive-belts.md): Abrasive belts for air file sanders, belt sanders and bench grinders, from narrow file belts to wide belts.
+- [Buffing & Polishing Wheels](https://arsen-industrial.com/products/buffing-wheels.md): Airway, bias and stitched buffing wheels for cutting and colouring with polishing compounds.
+- [Cartridge Rolls & Mandrels](https://arsen-industrial.com/products/cartridge-rolls.md): Spiral-wound cartridge rolls and tapered rolls on threaded mandrels for grinding inside holes, ports and contours.
+- [Flap Discs](https://arsen-industrial.com/products/flap-discs.md): Flap discs for angle grinders that grind and finish in one step on welds, edges and flat surfaces.
+- [Flap Wheels](https://arsen-industrial.com/products/flap-wheels.md): Abrasive flap wheels for contour finishing, blending and polishing preparation on curved and irregular surfaces.
+- [Non-Woven Wheels](https://arsen-industrial.com/products/non-woven-wheels.md): Non-woven surface conditioning wheels for deburring, blending and satin finishing without changing part geometry.
+- [Pneumatic Tools](https://arsen-industrial.com/products/pneumatic-tools.md): Arsen air tools for grinding, sanding and polishing: die grinders, mini angle grinders, belt sanders and orbital sanders.
 
 ## Applications
 
-- [Cutting](https://arsen-industrial.com/applications/cutting.md): Cut bar, tube, sheet and profiles quickly and cleanly.
 - [Grinding](https://arsen-industrial.com/applications/grinding.md): Remove heavy stock, grind welds and shape edges.
 - [Deburring](https://arsen-industrial.com/applications/deburring.md): Remove burrs and sharp edges after machining, cutting or stamping.
 - [Blending](https://arsen-industrial.com/applications/blending.md): Blend grind marks and welds into the surrounding surface.
 - [Cleaning & Preparation](https://arsen-industrial.com/applications/cleaning.md): Remove rust, scale, paint and weld discoloration before coating or bonding.
 - [Finishing](https://arsen-industrial.com/applications/finishing.md): Create consistent satin, hairline or pre-polish finishes.
+- [Polishing & Buffing](https://arsen-industrial.com/applications/polishing.md): Bring metal surfaces to a bright or mirror finish with buffing wheels and compounds.
 
 ## Industries
 

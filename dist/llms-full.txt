@@ -4,125 +4,342 @@
 
 ---
 
-Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding consumables and pneumatic tools, offering retail products and OEM/ODM manufacturing for industrial buyers.
+Arsen Kogyo is a Taiwan-based supplier of flap discs, non-woven wheels, buffing wheels, abrasive belts and Arsen pneumatic tools, offering standard products and OEM/ODM manufacturing for industrial buyers.
 ---
 
 
 ---
 
-# Flap Disc
+# Abrasive Belts
 
-Flap disc for angle grinders that combines grinding and finishing in one step on welds, edges and flat surfaces.
+Abrasive belts for air file sanders, belt sanders and bench grinders, from narrow file belts to wide belts.
 
-- SKU: AK-FD-SAMPLE
+- SKU: AK-AB
+- Category: Abrasive Belts
+- Web page: https://arsen-industrial.com/products/abrasive-belts/
+
+## Types
+
+- Air file belt: Narrow belts for air belt files and slot work
+- Benchstand / narrow belt: For backstand and bench belt grinders
+- Non-woven belt: For satin finishing and cleaning
+
+## Specifications
+
+- Type: File belts, benchstand belts, narrow belts, wide belts
+- File belt width: 1/8" to 2-3/4"
+- File belt length: 6-9/32" to 24-1/2"; common 12", 13", 18", 21", 24"
+- Backing: Cloth, polyester, poly/cotton, paper
+- Abrasive: Ceramic, zirconia alumina, aluminum oxide, silicon carbide
+- Grit: 24 to 800
+
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
+
+## Typical uses
+
+- Weld removal in corners and tight spaces
+- Deburring edges and slots
+- Pre-polish finishing on tubes and profiles
+
+Processes: Grinding, Blending, Finishing
+Industries: Metal Fabrication, Mould & Die, Automotive & Transport
+
+Photos: https://arsen-industrial.com/img/belt-sander.jpg, https://arsen-industrial.com/img/belt-file.jpg
+
+## Details
+
+Belts are made to size from rolls, so non-standard widths and lengths are possible. Narrow file belts reach inside corners and slots; wider belts on benchstand and backstand machines give fast, cool grinding.
+
+## FAQ
+
+**Q: Can you make non-standard belt sizes?**
+A: Yes. Send us the width, length and machine model and we will quote a custom size.
+
+---
+
+# Buffing & Polishing Wheels
+
+Airway, bias and stitched buffing wheels for cutting and colouring with polishing compounds.
+
+- SKU: AK-BW
+- Category: Buffing Wheels
+- Web page: https://arsen-industrial.com/products/buffing-wheels/
+
+## Types
+
+- Treated airway buff: Firm wheel for the cutting stage with coarse compound
+- Untreated cotton airway buff: Soft wheel for the colouring stage and a mirror finish
+- Stitched buff: Dense wheel for heavy cutting on flat surfaces
+
+## Specifications
+
+- Construction: Airway (ventilated), bias, stitched / sewn
+- Material: Cotton, treated cotton, sisal
+- Centre: Metal centre plate or arbor hole
+- Diameter and ply: On request
+
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
+
+## Typical uses
+
+- Mirror polishing of stainless steel and aluminium
+- Cutting and colouring with polishing compound
+- Cookware, sanitary fittings and hardware finishing
+
+Processes: Polishing & Buffing, Finishing
+Industries: Stainless & Food Equipment, Metal Fabrication, Automotive & Transport
+
+Photos: https://arsen-industrial.com/img/buff-airway.jpg, https://arsen-industrial.com/img/buff-stitched.jpg, https://arsen-industrial.com/img/buff-black.jpg, https://arsen-industrial.com/img/buff-airway-2.jpg, https://arsen-industrial.com/img/buff-side.jpg
+
+## Details
+
+Airway buffs have a ventilated metal centre that keeps the wheel cool during long polishing runs. Firmer treated buffs do the cutting stage; softer untreated cotton buffs bring the surface to its final colour. Stitched buffs give the densest face for heavy cutting.
+
+## FAQ
+
+**Q: Which buff do I start with?**
+A: Start with a treated airway or stitched buff and a cutting compound, then finish with an untreated cotton buff and a colouring compound.
+
+---
+
+# Cartridge Rolls & Mandrels
+
+Spiral-wound cartridge rolls and tapered rolls on threaded mandrels for grinding inside holes, ports and contours.
+
+- SKU: AK-CR
+- Category: Cartridge Rolls
+- Web page: https://arsen-industrial.com/products/cartridge-rolls/
+
+## Types
+
+- Straight cartridge roll: Uniform diameter for bores and slots
+- Tapered cartridge roll: Full or half taper for ports, fillets and tight radii
+
+## Specifications
+
+- Shape: Straight and tapered
+- Diameter: 5/64" to 1-1/2"
+- Length: 1/2" to 3"
+- Mandrel: Threaded mandrels, 1/4" shank
+- Abrasive: Aluminum oxide, zirconia alumina
+- Grit: 36, 40, 50, 60, 80, 100, 120, 150, 180, 240, 320
+
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
+
+## Typical uses
+
+- Porting and polishing cylinder heads
+- Deburring inside holes and castings
+- Blending fillets and tight radii
+
+Processes: Grinding, Deburring, Blending
+Industries: Mould & Die, Automotive & Transport, Metal Fabrication
+
+Photos: https://arsen-industrial.com/img/cartridge-roll.jpg
+
+## Details
+
+Cartridge rolls are spirally wound from abrasive cloth, so a worn outer layer exposes fresh grain underneath. They thread onto a reusable mandrel and run in air die grinders.
+
+## FAQ
+
+**Q: Are mandrels sold separately?**
+A: Yes. Rolls and mandrels can be supplied separately or as kits.
+
+---
+
+# Flap Discs
+
+Flap discs for angle grinders that grind and finish in one step on welds, edges and flat surfaces.
+
+- SKU: AK-FD
 - Category: Flap Discs
-- Web page: https://arsen-industrial.com/products/flap-disc/
+- Web page: https://arsen-industrial.com/products/flap-discs/
+
+## Types
+
+- Ceramic: Fastest cut and longest life on stainless steel and hard alloys
+- Zirconia alumina: All-round choice for carbon steel and stainless
+- Aluminum oxide: Economical option for mild steel and general fabrication
 
 ## Specifications
 
-- Diameter: TBD (e.g. 100 / 115 / 125 mm)
-- Abrasive: TBD (zirconia / ceramic / aluminium oxide)
-- Grit: TBD (e.g. 40–120)
-- Backing: TBD (fibreglass / plastic)
-- Shape: TBD (Type 27 flat / Type 29 conical)
-- Max RPM: TBD
+- Diameter: 4", 4-1/2", 5", 6", 7"
+- Arbor: 5/8", 7/8", 5/8"-11 threaded hub
+- Shape: Type 27 (flat), Type 29 (conical)
+- Backing: Fiberglass, nylon
+- Abrasive: Ceramic, zirconia alumina, aluminum oxide, silicon carbide
+- Grit: 24, 36, 40, 50, 60, 80, 100, 120
 
-## Applications
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
 
-- grinding
-- blending
+## Typical uses
+
+- Weld grinding and blending
+- Edge chamfering and deburring
+- Rust and mill-scale removal before coating
+
+Processes: Grinding, Blending, Cleaning & Preparation
+Industries: Metal Fabrication, Automotive & Transport, Stainless & Food Equipment
+
+Photos: https://arsen-industrial.com/img/flap-disc.jpg, https://arsen-industrial.com/img/at-702c.jpg
 
 ## Details
 
-Flap discs use overlapping abrasive flaps bonded to a backing plate. As the
-flaps wear, fresh grain is exposed, giving consistent cutting through the life
-of the disc.
-
-**Sample content — replace with your real product description and specifications.**
+Overlapping abrasive flaps wear away gradually and keep exposing fresh grain, so a flap disc cuts consistently through its life and leaves a smoother surface than a bonded grinding wheel. Choose Type 27 for flat finishing work and Type 29 for aggressive stock removal on edges and welds.
 
 ## FAQ
 
-**Q: What is the difference between Type 27 and Type 29?**
-A: Type 27 is flat and suits finishing on flat surfaces. Type 29 is conical and gives more aggressive stock removal on edges and welds.
+**Q: Which grain should I choose for stainless steel?**
+A: Ceramic or zirconia alumina. Both cut cool and fast; ceramic lasts longer under high pressure.
+
+**Q: Can you supply private-label flap discs?**
+A: Yes. Grain, grit, backing, label and packaging can be customised under our OEM/ODM service.
 
 ---
 
-# Non-Woven Abrasive Wheel
+# Flap Wheels
 
-Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
+Abrasive flap wheels for contour finishing, blending and polishing preparation on curved and irregular surfaces.
 
-- SKU: AK-NW-SAMPLE
-- Category: Non-Woven Wheels & Discs
-- Web page: https://arsen-industrial.com/products/non-woven-abrasive-wheel/
+- SKU: AK-FW
+- Category: Flap Wheels
+- Web page: https://arsen-industrial.com/products/flap-wheels/
+
+## Types
+
+- Unmounted flap wheel: Large wheels on a metal hub for polishing lathes and buffing machines
+- Mounted flap wheel: Small wheels on a shank for die grinders and tight areas
 
 ## Specifications
 
-- Diameter: TBD (e.g. 150 mm)
-- Width: TBD
-- Bore: TBD
-- Grit / grade: TBD (e.g. Coarse / Medium / Fine)
-- Max RPM: TBD
-- Materials: Stainless steel, aluminium, copper, plastics
+- Type: Unmounted (arbor hole) and mounted (with shank)
+- Mounted diameter: 3/8" to 4-1/4"
+- Width: 3/16" to 2"
+- Shank: 1/8", 1/4", 1/4"-20 threaded
+- Abrasive: Aluminum oxide, silicon carbide
+- Grit: 40, 60, 80, 120, 180, 240, 320, 400
 
-## Applications
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
 
-- deburring
-- blending
-- cleaning
-- finishing
+## Typical uses
+
+- Blending on tubes and curved parts
+- Finishing inside diameters and holes
+- Preparing surfaces for polishing
+
+Processes: Blending, Finishing
+Industries: Metal Fabrication, Mould & Die, Automotive & Transport
+
+Photos: https://arsen-industrial.com/img/flap-wheel.jpg
 
 ## Details
 
-Non-woven abrasive wheels combine nylon fibre with abrasive grain in an open,
-flexible structure. The wheel conforms to the workpiece surface, so it gives a
-uniform finish without gouging and runs cooler than bonded grinding wheels.
-
-**Sample content — replace with your real product description and specifications.**
+Flap wheels follow the shape of the workpiece, which makes them the standard choice for tubes, castings and other curved parts. Large unmounted wheels run on polishing machines; mounted wheels fit air die grinders for detail work.
 
 ## FAQ
 
-**Q: Can this wheel be made in custom sizes?**
-A: Yes. Diameter, width, bore and grade can be customised under our OEM/ODM service. Contact us with your drawing or target specification.
-
-**Q: Does it change the dimensions of the part?**
-A: Non-woven abrasives remove very little material, so they are suited to finishing and light deburring rather than heavy stock removal.
+**Q: Which machine do I need for a mounted flap wheel?**
+A: A straight or angle die grinder with a matching collet. Always stay below the maximum RPM marked for the wheel size.
 
 ---
 
-# Pneumatic Die Grinder
+# Non-Woven Wheels
 
-Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+Non-woven surface conditioning wheels for deburring, blending and satin finishing without changing part geometry.
 
-- SKU: AK-PG-SAMPLE
+- SKU: AK-NW
+- Category: Non-Woven Wheels
+- Web page: https://arsen-industrial.com/products/non-woven-wheels/
+
+## Types
+
+- Unitized / convolute wheel: Firm wheel for edge deburring and blending
+- Drum wheel: Wide wheel for satin and hairline finishing on flat sheets
+
+## Specifications
+
+- Type: Unitized / convolute wheels, flap wheels, drum wheels
+- Diameter: 1" to 12"
+- Width: 1/8" to 1"
+- Arbor: 1/16" to 5"
+- Grade: Fine, medium, coarse; density 2 to 8
+- Abrasive: Aluminum oxide, silicon carbide
+
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
+
+## Typical uses
+
+- Deburring after machining or stamping
+- Satin and hairline finishing on stainless steel
+- Light cleaning of oxidation and weld discoloration
+
+Processes: Deburring, Blending, Finishing
+Industries: Electronics & Precision Parts, Stainless & Food Equipment, Metal Fabrication
+
+Photos: https://arsen-industrial.com/img/non-woven.jpg
+
+## Details
+
+Non-woven wheels combine nylon fibre, resin and abrasive grain in an open structure. They remove burrs and blend marks while removing very little material, so tolerances are not affected. They run cool and give a uniform, repeatable finish.
+
+## FAQ
+
+**Q: Do non-woven wheels change part dimensions?**
+A: Very little. They are made for finishing and light deburring rather than heavy stock removal.
+
+**Q: Can you prepare supplier documents for electronics customers?**
+A: Yes. We have prepared supplier qualification documents for buyers in Taiwanese electronics supply chains.
+
+---
+
+# Pneumatic Tools
+
+Arsen air tools for grinding, sanding and polishing: die grinders, mini angle grinders, belt sanders and orbital sanders.
+
+- SKU: AK-PT
 - Category: Pneumatic Tools
-- Web page: https://arsen-industrial.com/products/pneumatic-die-grinder/
+- Web page: https://arsen-industrial.com/products/pneumatic-tools/
+
+## Types
+
+- Angle die grinder AT-402BF: 90-degree head for grinding in tight spaces
+- Mini angle grinder AT-702C: Compact grinder for small flap discs and grinding discs
+- Air belt file sander: Narrow belt arm for corners, slots and welds
+- Air belt sander: Wider belt on an expanding drum for tubes and profiles
+- Straight die grinder: For mounted points, burrs and cartridge rolls
+- Pencil grinder: Lightweight grinder for mould and detail work
+- Random orbital sander: Swirl-free sanding on flat surfaces
+- Delta / detail sander: Triangular pad for corners and edges
+- Mini pistol-grip sander: 3" pad sanding and polishing
+- Mini random orbital polisher: Small pads for spot repair and detail polishing
 
 ## Specifications
 
-- Free speed: TBD (e.g. 25,000 RPM)
-- Collet: TBD (e.g. 6 mm / 1/4 in)
-- Air pressure: TBD (e.g. 6.2 bar / 90 psi)
-- Air inlet: TBD
-- Weight: TBD
+- Range: Die grinders, angle grinders, belt sanders, orbital sanders, polishers
+- Free speed, air consumption, inlet: Per model, on request
 
-## Applications
+Specifications show the standard range available in the US market. Exact sizes, grits and pack quantities are confirmed with each quotation.
 
-- grinding
-- deburring
-- finishing
+## Typical uses
+
+- Runs our flap discs, belts, cartridge rolls and non-woven wheels
+- Continuous industrial duty
+- Light weight and cool running compared with many electric tools
+
+Processes: Grinding, Deburring, Blending, Finishing
+Industries: Metal Fabrication, Mould & Die, Automotive & Transport
+
+Photos: https://arsen-industrial.com/img/at-402bf.jpg, https://arsen-industrial.com/img/at-702c.jpg, https://arsen-industrial.com/img/belt-file.jpg, https://arsen-industrial.com/img/belt-sander.jpg, https://arsen-industrial.com/img/straight-die-grinder.jpg, https://arsen-industrial.com/img/pencil-grinder.jpg, https://arsen-industrial.com/img/random-orbital.jpg, https://arsen-industrial.com/img/delta-sander.jpg, https://arsen-industrial.com/img/pistol-sander.jpg, https://arsen-industrial.com/img/mini-polisher.jpg
 
 ## Details
 
-Pneumatic die grinders are light, run cool and tolerate continuous duty better
-than many electric tools, which makes them common in fabrication and mould
-shops.
-
-**Sample content — replace with your real product description and specifications.**
+Our air tools are matched to the abrasives we supply, so you can source the tool and the consumable from one partner. Full specifications for each model are available with your quotation.
 
 ## FAQ
 
-**Q: What air supply does it need?**
-A: TBD — fill in the recommended air consumption and hose size.
+**Q: What air supply do the tools need?**
+A: Most models are designed for 90 psi (6.2 bar). Air consumption and hose size depend on the model; ask us for the data sheet.
 
 ---
 

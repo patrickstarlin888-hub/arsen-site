@@ -1,7 +1,7 @@
 ---
 title: Finishing
 slug: finishing
-order: 6
+order: 5
 summary: Create consistent satin, hairline or pre-polish finishes.
 ---
 

@@ -4,5 +4,8 @@ Create consistent satin, hairline or pre-polish finishes. Tell us your material,
 
 ## Recommended products
 
-- [Non-Woven Abrasive Wheel](https://arsen-industrial.com/products/non-woven-abrasive-wheel.md): Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
-- [Pneumatic Die Grinder](https://arsen-industrial.com/products/pneumatic-die-grinder.md): Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+- [Abrasive Belts](https://arsen-industrial.com/products/abrasive-belts.md): Abrasive belts for air file sanders, belt sanders and bench grinders, from narrow file belts to wide belts.
+- [Buffing & Polishing Wheels](https://arsen-industrial.com/products/buffing-wheels.md): Airway, bias and stitched buffing wheels for cutting and colouring with polishing compounds.
+- [Flap Wheels](https://arsen-industrial.com/products/flap-wheels.md): Abrasive flap wheels for contour finishing, blending and polishing preparation on curved and irregular surfaces.
+- [Non-Woven Wheels](https://arsen-industrial.com/products/non-woven-wheels.md): Non-woven surface conditioning wheels for deburring, blending and satin finishing without changing part geometry.
+- [Pneumatic Tools](https://arsen-industrial.com/products/pneumatic-tools.md): Arsen air tools for grinding, sanding and polishing: die grinders, mini angle grinders, belt sanders and orbital sanders.

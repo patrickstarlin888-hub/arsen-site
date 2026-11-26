@@ -1,7 +1,7 @@
 ---
 title: Deburring
 slug: deburring
-order: 3
+order: 2
 summary: Remove burrs and sharp edges after machining, cutting or stamping.
 ---
 

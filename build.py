@@ -130,15 +130,17 @@ def sample_badge(p):
 
 
 def product_card(p):
-    return f"""<a class="card" href="/products/{p['slug']}/">
+    img = p.get("images", [None])[0]
+    pic = f'<img src="/img/{img}" alt="{esc(p["title"])}" loading="lazy">' if img else '<div class="ph">Photo coming soon</div>'
+    return f"""<a class="card pcard" href="/products/{p['slug']}/">{pic}<div class="pc-body">
 <span class="cat">{esc(p['category'])}</span>
-<h3>{esc(p['title'])}</h3><p>{esc(p['summary'])}</p>{sample_badge(p)}</a>"""
+<h3>{esc(p['title'])}</h3><p>{esc(p['summary'])}</p>{sample_badge(p)}</div></a>"""
 
 
 def build_product(p):
     path = f"/products/{p['slug']}/"
     specs = "".join(f"<tr><th>{esc(k)}</th><td>{esc(str(v))}</td></tr>" for k, v in p["specs"])
-    apps = "".join(f"<li>{esc(a)}</li>" for a in p.get("applications", []))
+    apps = "".join(f"<li>{esc(a)}</li>" for a in p.get("uses", []))
     faq = "".join(f"<details><summary>{esc(f['q'])}</summary><p>{esc(f['a'])}</p></details>"
                   for f in p.get("faq", []))
     links = "".join(f'<a class="tag" href="/industries/{i["slug"]}/">{esc(i["title"])}</a>'
@@ -147,8 +149,13 @@ def build_product(p):
                      for a in APPLICATIONS if a["slug"] in p.get("applications", []))
     buy = (f'<a class="btn" href="{esc(p["shopify_url"])}">Buy online</a>' if p.get("shopify_url")
            else '<a class="btn" href="/contact/">Request a quote</a>')
-    img = f'<img src="{esc(p["image"])}" alt="{esc(p["title"])}">' if p.get("image") else \
-          '<div class="ph">Photo coming soon</div>'
+    ims = p.get("images", [])
+    if ims:
+        thumbs = "".join(f'<button type="button" class="thumb" onclick="document.getElementById(\'mainimg\').src=\'/img/{i}\'"><img src="/img/{i}" alt="" loading="lazy"></button>' for i in ims) if len(ims) > 1 else ""
+        img = f'<img id="mainimg" src="/img/{ims[0]}" alt="{esc(p["title"])}"><div class="thumbs">{thumbs}</div>'
+    else:
+        img = '<div class="ph">Photo coming soon</div>'
+    variants = "".join(f"<tr><th>{esc(a)}</th><td>{esc(b_)}</td></tr>" for a, b_ in p.get("variants", []))
     content = f"""<p class="crumb"><a href="/products/">Products</a> / {esc(p['category'])}</p>
 <div class="hero-p">
 <div>{img}</div>
@@ -157,8 +164,10 @@ def build_product(p):
 <p class="sku">SKU: {esc(p['sku'])}</p>
 <p>{buy} <a class="btn ghost" href="/oem-odm/">Custom / OEM</a></p></div>
 </div>
+{'<h2>Types</h2><table class="specs">' + variants + '</table>' if variants else ''}
 <h2>Specifications</h2><table class="specs">{specs}</table>
-<h2>Applications</h2><ul>{apps}</ul>
+{'<p class="small">' + esc(p["specs_note"]) + '</p>' if p.get("specs_note") else ''}
+<h2>Typical uses</h2><ul>{apps}</ul>
 <p class="tags">{links}</p>
 <h2>Details</h2>{p['body_html']}
 {'<h2>FAQ</h2>' + faq if faq else ''}
@@ -166,6 +175,7 @@ def build_product(p):
     ld = [{"@context": "https://schema.org", "@type": "Product", "name": p["title"],
            "sku": p["sku"], "category": p["category"], "description": p["summary"],
            "brand": {"@type": "Brand", "name": SITE["name"]}, "url": BASE + path,
+           "image": [f"{BASE}/img/{i}" for i in p.get("images", [])],
            "additionalProperty": [{"@type": "PropertyValue", "name": k, "value": str(v)}
                                   for k, v in p["specs"]]}]
     if p.get("faq"):
@@ -184,9 +194,20 @@ def product_md(p):
              f"- Web page: {BASE}/products/{p['slug']}/"]
     if p.get("shopify_url"):
         lines.append(f"- Buy: {p['shopify_url']}")
+    if p.get("variants"):
+        lines += ["", "## Types", ""] + [f"- {a}: {d}" for a, d in p["variants"]]
     lines += ["", "## Specifications", ""] + [f"- {k}: {v}" for k, v in p["specs"]]
+    if p.get("specs_note"):
+        lines += ["", p["specs_note"]]
+    if p.get("uses"):
+        lines += ["", "## Typical uses", ""] + [f"- {a}" for a in p["uses"]]
+    names = {a["slug"]: a["title"] for a in APPLICATIONS} | {i["slug"]: i["title"] for i in INDUSTRIES}
     if p.get("applications"):
-        lines += ["", "## Applications", ""] + [f"- {a}" for a in p["applications"]]
+        lines += ["", "Processes: " + ", ".join(names.get(a, a) for a in p["applications"])]
+    if p.get("industries"):
+        lines += ["Industries: " + ", ".join(names.get(a, a) for a in p["industries"])]
+    if p.get("images"):
+        lines += ["", "Photos: " + ", ".join(f"{BASE}/img/{i}" for i in p["images"])]
     lines += ["", "## Details", "", p["body_md"]]
     if p.get("faq"):
         lines += ["", "## FAQ", ""]
@@ -205,7 +226,12 @@ def build():
         n = len(in_cat(c))
         extra = f'<span class="count">{n} product{"s" if n != 1 else ""}</span>' if n else \
                 '<span class="count ask">Available on request</span>'
-        return tile(f"/products/#{slugify(c)}", c, CAT_SUMMARY.get(c, ""), extra)
+        items = in_cat(c)
+        href = f"/products/{items[0]['slug']}/" if len(items) == 1 else f"/products/#{slugify(c)}"
+        img = items[0].get("images", [None])[0] if items else None
+        pic = f'<img src="/img/{img}" alt="{esc(c)}" loading="lazy">' if img else '<div class="ph">Photo coming soon</div>'
+        return f'<a class="ctile" href="{href}">{pic}<div><h3>{esc(c)}</h3><p>{esc(CAT_SUMMARY.get(c, ""))}</p></div></a>'
+
     cat_tiles = "".join(cat_tile(c) for c in CATS)
     steps = "".join(f'<a class="step" href="/applications/{a["slug"]}/"><span class="num">{n:02d}</span>'
                     f'<h3>{esc(a["title"])}</h3><p>{esc(a["summary"])}</p></a>'
@@ -218,17 +244,18 @@ def build():
             for k, x in enumerate(items, 1))
         combos += f'<div class="combo"><h3>{esc(cb["title"])}</h3><p>{esc(cb["summary"])}</p><div class="flow">{flow}</div></div>'
     ind_tiles = "".join(tile(f"/industries/{i['slug']}/", i["title"], i["summary"]) for i in INDUSTRIES)
-    home = f"""<section class="hero"><div class="wrap">
-<p class="eyebrow">Abrasives · Finishing · Pneumatic tools</p>
+    home = f"""<section class="hero"><div class="wrap hero-grid"><div>
+<p class="eyebrow">Abrasives · Buffing · Pneumatic tools</p>
 <h1>{esc(SITE['tagline'])}</h1>
 <p class="lead">{esc(SITE['description'])}</p>
-<p><a class="btn" href="/products/">Browse products</a>
-<a class="btn ghost light" href="/oem-odm/">OEM / ODM service</a></p></div></section>
+<p><a class="btn light" href="/products/">Browse products</a>
+<a class="btn ghost light" href="/oem-odm/">OEM / ODM service</a></p></div>
+<div class="hero-img"><img src="/img/at-702c.jpg" alt="Arsen AT-702C mini angle grinder with flap disc"></div></div></section>
 <div class="wrap">
+<section><h2>Our products</h2><div class="cgrid">{cat_tiles}</div></section>
 <section><h2>A solution for every step of metalworking</h2>
 <p class="sub">Pick the process you are working on to see the right products.</p>
 <div class="steps">{steps}</div></section>
-<section><h2>Product categories</h2><div class="grid">{cat_tiles}</div></section>
 {'<section><h2>Recommended combinations</h2><p class="sub">Products that work best together, in order.</p><div class="combos">' + combos + '</div></section>' if combos else ''}
 <section><h2>Industries we serve</h2><div class="grid">{ind_tiles}</div></section>
 <section class="why"><h2>Why work with Arsen</h2><div class="grid4">
@@ -245,8 +272,8 @@ def build():
         groups += f"<h2 id='{slugify(c)}'>{esc(c)}</h2><p class='sub'>{esc(CAT_SUMMARY.get(c, ''))}</p>"
         groups += ("<div class='grid'>" + "".join(product_card(p) for p in items) + "</div>") if items else \
             "<p>Available on request — <a href='/contact/'>tell us the size and specification you need</a>.</p>"
-    write("/products/", layout("Products", "All grinding, finishing and pneumatic products.",
-                               "/products/", "<h1>Products</h1>" + groups))
+    write("/products/", layout("Products", "Abrasives, buffing wheels and pneumatic tools from Arsen Industrial.",
+                               "/products/", f"<h1>Products</h1><div class='cgrid'>{cat_tiles}</div>"))
     urls.append("/products/")
     urls += [build_product(p) for p in PRODUCTS]
 
