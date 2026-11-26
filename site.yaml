@@ -1,0 +1,40 @@
+# 全站設定 — 改這裡就會套用到每一頁
+name: Arsen Industrial
+company: Arsen Kogyo (富士達商貿)
+domain: https://arsen-industrial.com
+tagline: Grinding, finishing and pneumatic tools — OEM/ODM from Taiwan
+description: >-
+  Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding
+  consumables and pneumatic tools, offering retail products and OEM/ODM
+  manufacturing for industrial buyers.
+email: sales@arsen-industrial.com   # TODO: 換成真的信箱
+shop_url: ""                     # Shopify 開好後填入，例如 https://shop.arsen-industrial.com
+lang: en
+noindex: true   # 範例資料階段先不讓 Google 收錄；換成真實產品後改成 false
+
+# 產品類別（依這個順序顯示）。還沒有產品頁的類別會顯示「Ask us」，
+# 請刪掉你不賣的類別、補上你有賣的。
+categories:
+  - name: Flap Discs
+    summary: Grind and finish in one step on welds, edges and flat surfaces.
+  - name: Fibre Discs
+    summary: Aggressive stock removal on backing pads for angle grinders.
+  - name: Cutting & Grinding Discs
+    summary: Thin cut-off wheels and depressed-centre grinding discs.
+  - name: Non-Woven Wheels & Discs
+    summary: Deburring, blending and satin finishing without changing part geometry.
+  - name: Mounted Points & Burrs
+    summary: Small-diameter tools for detail work, moulds and internal edges.
+  - name: Pneumatic Tools
+    summary: Air-powered die grinders, sanders and grinders for continuous duty.
+  - name: Accessories
+    summary: Back-up pads, mandrels, holders and flanges.
+
+# 推薦組合（參考 3M Winning Combinations）：先用哪個、再用哪個
+combinations:
+  - title: Weld grinding to satin finish
+    summary: Grind the weld flush, then blend and finish in a second step.
+    products: [flap-disc, non-woven-abrasive-wheel]
+  - title: Detail deburring in tight spaces
+    summary: Reach internal edges and mould details with an air grinder and small non-woven wheels.
+    products: [pneumatic-die-grinder, non-woven-abrasive-wheel]

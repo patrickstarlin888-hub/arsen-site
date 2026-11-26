@@ -1,0 +1,178 @@
+# Arsen Industrial — full product information
+---
+
+
+---
+
+Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding consumables and pneumatic tools, offering retail products and OEM/ODM manufacturing for industrial buyers.
+---
+
+
+---
+
+# Flap Disc
+
+Flap disc for angle grinders that combines grinding and finishing in one step on welds, edges and flat surfaces.
+
+- SKU: AK-FD-SAMPLE
+- Category: Flap Discs
+- Web page: https://arsen-industrial.com/products/flap-disc/
+
+## Specifications
+
+- Diameter: TBD (e.g. 100 / 115 / 125 mm)
+- Abrasive: TBD (zirconia / ceramic / aluminium oxide)
+- Grit: TBD (e.g. 40–120)
+- Backing: TBD (fibreglass / plastic)
+- Shape: TBD (Type 27 flat / Type 29 conical)
+- Max RPM: TBD
+
+## Applications
+
+- grinding
+- blending
+
+## Details
+
+Flap discs use overlapping abrasive flaps bonded to a backing plate. As the
+flaps wear, fresh grain is exposed, giving consistent cutting through the life
+of the disc.
+
+**Sample content — replace with your real product description and specifications.**
+
+## FAQ
+
+**Q: What is the difference between Type 27 and Type 29?**
+A: Type 27 is flat and suits finishing on flat surfaces. Type 29 is conical and gives more aggressive stock removal on edges and welds.
+
+---
+
+# Non-Woven Abrasive Wheel
+
+Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
+
+- SKU: AK-NW-SAMPLE
+- Category: Non-Woven Wheels & Discs
+- Web page: https://arsen-industrial.com/products/non-woven-abrasive-wheel/
+
+## Specifications
+
+- Diameter: TBD (e.g. 150 mm)
+- Width: TBD
+- Bore: TBD
+- Grit / grade: TBD (e.g. Coarse / Medium / Fine)
+- Max RPM: TBD
+- Materials: Stainless steel, aluminium, copper, plastics
+
+## Applications
+
+- deburring
+- blending
+- cleaning
+- finishing
+
+## Details
+
+Non-woven abrasive wheels combine nylon fibre with abrasive grain in an open,
+flexible structure. The wheel conforms to the workpiece surface, so it gives a
+uniform finish without gouging and runs cooler than bonded grinding wheels.
+
+**Sample content — replace with your real product description and specifications.**
+
+## FAQ
+
+**Q: Can this wheel be made in custom sizes?**
+A: Yes. Diameter, width, bore and grade can be customised under our OEM/ODM service. Contact us with your drawing or target specification.
+
+**Q: Does it change the dimensions of the part?**
+A: Non-woven abrasives remove very little material, so they are suited to finishing and light deburring rather than heavy stock removal.
+
+---
+
+# Pneumatic Die Grinder
+
+Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+
+- SKU: AK-PG-SAMPLE
+- Category: Pneumatic Tools
+- Web page: https://arsen-industrial.com/products/pneumatic-die-grinder/
+
+## Specifications
+
+- Free speed: TBD (e.g. 25,000 RPM)
+- Collet: TBD (e.g. 6 mm / 1/4 in)
+- Air pressure: TBD (e.g. 6.2 bar / 90 psi)
+- Air inlet: TBD
+- Weight: TBD
+
+## Applications
+
+- grinding
+- deburring
+- finishing
+
+## Details
+
+Pneumatic die grinders are light, run cool and tolerate continuous duty better
+than many electric tools, which makes them common in fabrication and mould
+shops.
+
+**Sample content — replace with your real product description and specifications.**
+
+## FAQ
+
+**Q: What air supply does it need?**
+A: TBD — fill in the recommended air consumption and hose size.
+
+---
+
+# About Arsen Kogyo
+
+Arsen Kogyo (富士達商貿) is a trading and manufacturing partner based in Taiwan,
+specialising in grinding consumables and pneumatic tools.
+
+We serve two kinds of customers:
+
+- **Workshops and professionals** buying ready-made tools through our online store.
+- **Brands, distributors and manufacturers** who need OEM/ODM products made to specification.
+
+<!-- TODO: 補上成立年份、工廠/合作工廠、出口國家、團隊 -->
+
+---
+
+# Contact
+
+Email **sales@arsen-industrial.com** with:
+
+- The product or application you are interested in
+- Quantity and target market
+- Drawings or samples, if you need a custom product
+
+We reply within one business day (Taiwan time, UTC+8).
+
+---
+
+# OEM / ODM Manufacturing
+
+We manufacture abrasive wheels, grinding consumables and pneumatic tools under
+your brand or to your specification.
+
+## What we can customise
+
+- Size, grit, grade and abrasive material
+- Packaging, labels and private branding
+- Product development from a drawing, sample or target performance
+
+## How it works
+
+1. **Send your requirement** — drawing, sample, or the problem you need to solve.
+2. **Specification and quotation** — we confirm materials, tolerances, MOQ and lead time.
+3. **Sample approval** — you test samples before mass production.
+4. **Production and shipping** — inspection before shipment, with documents for your supply chain.
+
+## Supplier documents
+
+We can prepare supplier qualification documents for buyers entering
+electronics and industrial supply chains.
+
+<!-- TODO: 補上 MOQ、交期、認證（ISO 等）、合作過的產業 -->

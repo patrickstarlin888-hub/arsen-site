@@ -1,0 +1,34 @@
+# Arsen Industrial
+
+> Arsen Kogyo is a Taiwan-based supplier of abrasive wheels, grinding consumables and pneumatic tools, offering retail products and OEM/ODM manufacturing for industrial buyers.
+
+Contact: sales@arsen-industrial.com
+
+## Products
+
+- [Flap Disc](https://arsen-industrial.com/products/flap-disc.md): Flap disc for angle grinders that combines grinding and finishing in one step on welds, edges and flat surfaces.
+- [Non-Woven Abrasive Wheel](https://arsen-industrial.com/products/non-woven-abrasive-wheel.md): Non-woven nylon abrasive wheel for deburring, blending and satin finishing on stainless steel, aluminium and other metals.
+- [Pneumatic Die Grinder](https://arsen-industrial.com/products/pneumatic-die-grinder.md): Compact air-powered die grinder for deburring, porting and finishing in tight spaces, compatible with mounted points and small abrasive wheels.
+
+## Applications
+
+- [Cutting](https://arsen-industrial.com/applications/cutting.md): Cut bar, tube, sheet and profiles quickly and cleanly.
+- [Grinding](https://arsen-industrial.com/applications/grinding.md): Remove heavy stock, grind welds and shape edges.
+- [Deburring](https://arsen-industrial.com/applications/deburring.md): Remove burrs and sharp edges after machining, cutting or stamping.
+- [Blending](https://arsen-industrial.com/applications/blending.md): Blend grind marks and welds into the surrounding surface.
+- [Cleaning & Preparation](https://arsen-industrial.com/applications/cleaning.md): Remove rust, scale, paint and weld discoloration before coating or bonding.
+- [Finishing](https://arsen-industrial.com/applications/finishing.md): Create consistent satin, hairline or pre-polish finishes.
+
+## Industries
+
+- [Automotive & Transport](https://arsen-industrial.com/industries/automotive.md): Paint preparation, weld blending and component finishing for vehicles and parts.
+- [Electronics & Precision Parts](https://arsen-industrial.com/industries/electronics.md): Low-residue deburring and surface finishing for housings, heat sinks and precision components.
+- [Metal Fabrication](https://arsen-industrial.com/industries/metal-fabrication.md): Weld grinding, edge preparation and finishing for steel and stainless structures.
+- [Mould & Die](https://arsen-industrial.com/industries/mould-and-die.md): Precision finishing, polishing and detail work in tight spaces.
+- [Stainless & Food Equipment](https://arsen-industrial.com/industries/stainless-and-food-equipment.md): Contamination-free satin finishing and weld cleaning on stainless steel.
+
+## Company
+
+- [About Arsen Kogyo](https://arsen-industrial.com/about.md): Taiwan-based supplier of grinding, finishing and pneumatic tools.
+- [Contact](https://arsen-industrial.com/contact.md): Request a quote, samples or OEM/ODM consultation.
+- [OEM / ODM Manufacturing](https://arsen-industrial.com/oem-odm.md): Custom abrasive and pneumatic tool manufacturing for brands, distributors and industrial buyers.
